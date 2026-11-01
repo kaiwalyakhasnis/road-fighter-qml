@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Main.qml</file>
+        <file>Car.qml</file>
+        <file>assets/road_left.png</file>
+        <file>assets/road_center.png</file>
+        <file>assets/road_right.png</file>
+    </qresource>
+</RCC>
